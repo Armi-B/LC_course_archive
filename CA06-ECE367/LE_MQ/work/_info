@@ -1,0 +1,154 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/DLD/CA6-M/CA6-QM
+vhard_block
+Z0 !s110 1686611938
+!i10b 1
+!s100 [`i[3JYHhkcmJPn]z>J]h3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?k05aVDN2iNZ>1eWofQa72
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Digi Max/Desktop/LE_MQ
+Z4 w1686610395
+Z5 8C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo
+Z6 FC:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo
+!i122 8
+L0 5235 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1686611938.000000
+!s107 C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vRegFile
+R0
+!i10b 1
+!s100 RfKPG<IB@ECM]M_Sb@f3H2
+R1
+IkKM=<D_3lj6h?I^VAR;SK1
+R2
+R3
+R4
+R5
+R6
+!i122 8
+L0 32 5202
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo|
+R9
+!i113 1
+R10
+R11
+n@reg@file
+vSelection_Sort
+R0
+!i10b 1
+!s100 >a5kdk0Fe3[ZfX_hB>oeF3
+R1
+I>Jlg;JCe?e;@^oaOi]mW;1
+R2
+R3
+Z13 w1686601012
+Z14 8D:/DLD/CA6-M/SS.v
+Z15 FD:/DLD/CA6-M/SS.v
+!i122 7
+L0 56 25
+R7
+r1
+!s85 0
+31
+R8
+Z16 !s107 D:/DLD/CA6-M/SS.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|D:/DLD/CA6-M/SS.v|
+!i113 1
+R10
+R11
+n@selection_@sort
+vSS
+R0
+!i10b 1
+!s100 fNUCocLh@RHnLlci1Rf4S3
+R1
+IBAo0>RU7d931Ba^NMH`Zj3
+R2
+R3
+R13
+R14
+R15
+!i122 7
+L0 3 7
+R7
+r1
+!s85 0
+31
+R8
+R16
+R17
+!i113 1
+R10
+R11
+n@s@s
+vSS_controler
+R0
+!i10b 1
+!s100 `hzIjXL:Dg^e35ER>zhSR0
+R1
+IK[oZieB7Y97c<1OL7<=4k3
+R2
+R3
+R13
+R14
+R15
+!i122 7
+L0 13 41
+R7
+r1
+!s85 0
+31
+R8
+R16
+R17
+!i113 1
+R10
+R11
+n@s@s_controler
+vSS_TB
+R0
+!i10b 1
+!s100 k=`@6_z=8kV2PG4LoFNQQ2
+R1
+I8<7fhab]gCE0]@5NQmEzj0
+R2
+R3
+w1686611934
+8D:/DLD/CA6-M/SS-TB.v
+FD:/DLD/CA6-M/SS-TB.v
+!i122 6
+L0 2 23
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/DLD/CA6-M/SS-TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DLD/CA6-M/SS-TB.v|
+!i113 1
+R10
+R11
+n@s@s_@t@b

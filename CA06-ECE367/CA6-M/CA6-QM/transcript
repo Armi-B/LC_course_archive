@@ -1,0 +1,401 @@
+# Compile of SS-TB.v was successful.
+# Compile of SS.v was successful.
+# Compile of RegFile.vo was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.SS_TB -L cycloneiv_ver -L altera_ver -sdftyp {/UTT=C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo}
+# vsim -gui work.SS_TB -L cycloneiv_ver -L altera_ver -sdftyp "/UTT=C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo" 
+# Start time: 02:42:51 on Jun 13,2023
+# Loading work.SS_TB
+# Loading work.SS
+# Loading work.SS_controler
+# Loading work.Selection_Sort
+# ** Error: (vsim-3033) Instantiation of 'Memory' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB File: D:/DLD/CA6-M/SS-TB.v Line: 14
+#         Searched libraries:
+#             C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneiv
+#             C:/intelFPGA/20.1/modelsim_ase/altera/verilog/altera
+#             C:/Users/Digi Max/Desktop/LE_MQ/work
+# Error loading design
+# End time: 02:42:52 on Jun 13,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 9
+# Compile of SS-TB.v was successful.
+# Compile of SS.v was successful.
+# Compile of RegFile.vo was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui -L cycloneiv_ver -L altera_ver -sdftyp {/UTT=C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo} work.SS_TB
+# vsim -gui -L cycloneiv_ver -L altera_ver -sdftyp "/UTT=C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo" work.SS_TB 
+# Start time: 02:46:27 on Jun 13,2023
+# Loading work.SS_TB
+# Loading work.SS
+# Loading work.SS_controler
+# Loading work.Selection_Sort
+# Loading work.RegFile
+# Loading work.hard_block
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading instances from C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(358): Failed to find INSTANCE '\MemoryFile~0 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(819): Failed to find INSTANCE '\MemoryFile~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2881): Failed to find INSTANCE '\MemoryFile~10 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1461): Failed to find INSTANCE '\MemoryFile~100 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1676): Failed to find INSTANCE '\MemoryFile~101 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1666): Failed to find INSTANCE '\MemoryFile~101feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1887): Failed to find INSTANCE '\MemoryFile~102 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2234): Failed to find INSTANCE '\MemoryFile~103 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2319): Failed to find INSTANCE '\MemoryFile~104 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2530): Failed to find INSTANCE '\MemoryFile~105 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2803): Failed to find INSTANCE '\MemoryFile~106 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2793): Failed to find INSTANCE '\MemoryFile~106feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3024): Failed to find INSTANCE '\MemoryFile~107 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3014): Failed to find INSTANCE '\MemoryFile~107feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3339): Failed to find INSTANCE '\MemoryFile~108 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3518): Failed to find INSTANCE '\MemoryFile~109 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3102): Failed to find INSTANCE '\MemoryFile~11 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3645): Failed to find INSTANCE '\MemoryFile~110 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3635): Failed to find INSTANCE '\MemoryFile~110feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3960): Failed to find INSTANCE '\MemoryFile~111 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(573): Failed to find INSTANCE '\MemoryFile~112 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(704): Failed to find INSTANCE '\MemoryFile~113 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(997): Failed to find INSTANCE '\MemoryFile~114 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1322): Failed to find INSTANCE '\MemoryFile~115 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1518): Failed to find INSTANCE '\MemoryFile~116 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1739): Failed to find INSTANCE '\MemoryFile~117 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1950): Failed to find INSTANCE '\MemoryFile~118 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2218): Failed to find INSTANCE '\MemoryFile~119 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3229): Failed to find INSTANCE '\MemoryFile~12 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2366): Failed to find INSTANCE '\MemoryFile~120 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2577): Failed to find INSTANCE '\MemoryFile~121 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2777): Failed to find INSTANCE '\MemoryFile~122 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2998): Failed to find INSTANCE '\MemoryFile~123 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3323): Failed to find INSTANCE '\MemoryFile~124 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3565): Failed to find INSTANCE '\MemoryFile~125 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3692): Failed to find INSTANCE '\MemoryFile~126 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(4007): Failed to find INSTANCE '\MemoryFile~127 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(542): Failed to find INSTANCE '\MemoryFile~128 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(621): Failed to find INSTANCE '\MemoryFile~129 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3472): Failed to find INSTANCE '\MemoryFile~13 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(374): Failed to find INSTANCE '\MemoryFile~130 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(453): Failed to find INSTANCE '\MemoryFile~131 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(636): Failed to find INSTANCE '\MemoryFile~132 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(762): Failed to find INSTANCE '\MemoryFile~133 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(777): Failed to find INSTANCE '\MemoryFile~134 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(835): Failed to find INSTANCE '\MemoryFile~135 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(892): Failed to find INSTANCE '\MemoryFile~136 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(907): Failed to find INSTANCE '\MemoryFile~137 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(972): Failed to find INSTANCE '\MemoryFile~138 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1029): Failed to find INSTANCE '\MemoryFile~139 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3755): Failed to find INSTANCE '\MemoryFile~14 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1086): Failed to find INSTANCE '\MemoryFile~140 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1153): Failed to find INSTANCE '\MemoryFile~141 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1169): Failed to find INSTANCE '\MemoryFile~142 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1390): Failed to find INSTANCE '\MemoryFile~143 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1406): Failed to find INSTANCE '\MemoryFile~144 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1224): Failed to find INSTANCE '\MemoryFile~145 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1271): Failed to find INSTANCE '\MemoryFile~146 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1422): Failed to find INSTANCE '\MemoryFile~147 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1477): Failed to find INSTANCE '\MemoryFile~148 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1534): Failed to find INSTANCE '\MemoryFile~149 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3882): Failed to find INSTANCE '\MemoryFile~15 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1581): Failed to find INSTANCE '\MemoryFile~150 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1628): Failed to find INSTANCE '\MemoryFile~151 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1643): Failed to find INSTANCE '\MemoryFile~152 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1708): Failed to find INSTANCE '\MemoryFile~153 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1755): Failed to find INSTANCE '\MemoryFile~154 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1834): Failed to find INSTANCE '\MemoryFile~155 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1849): Failed to find INSTANCE '\MemoryFile~156 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1864): Failed to find INSTANCE '\MemoryFile~157 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1919): Failed to find INSTANCE '\MemoryFile~158 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1966): Failed to find INSTANCE '\MemoryFile~159 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(326): Failed to find INSTANCE '\MemoryFile~16 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2013): Failed to find INSTANCE '\MemoryFile~160 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2060): Failed to find INSTANCE '\MemoryFile~161 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2075): Failed to find INSTANCE '\MemoryFile~162 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2266): Failed to find INSTANCE '\MemoryFile~163 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2281): Failed to find INSTANCE '\MemoryFile~164 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2146): Failed to find INSTANCE '\MemoryFile~165 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2177): Failed to find INSTANCE '\MemoryFile~166 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2296): Failed to find INSTANCE '\MemoryFile~167 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2351): Failed to find INSTANCE '\MemoryFile~168 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2398): Failed to find INSTANCE '\MemoryFile~169 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(273): Failed to find INSTANCE '\MemoryFile~16feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(803): Failed to find INSTANCE '\MemoryFile~17 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2461): Failed to find INSTANCE '\MemoryFile~170 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2492): Failed to find INSTANCE '\MemoryFile~171 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2507): Failed to find INSTANCE '\MemoryFile~172 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2562): Failed to find INSTANCE '\MemoryFile~173 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2619): Failed to find INSTANCE '\MemoryFile~174 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2666): Failed to find INSTANCE '\MemoryFile~175 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2713): Failed to find INSTANCE '\MemoryFile~176 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2728): Failed to find INSTANCE '\MemoryFile~177 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2835): Failed to find INSTANCE '\MemoryFile~178 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2850): Failed to find INSTANCE '\MemoryFile~179 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1054): Failed to find INSTANCE '\MemoryFile~18 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2897): Failed to find INSTANCE '\MemoryFile~180 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2944): Failed to find INSTANCE '\MemoryFile~181 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2959): Failed to find INSTANCE '\MemoryFile~182 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3056): Failed to find INSTANCE '\MemoryFile~183 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3071): Failed to find INSTANCE '\MemoryFile~184 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3118): Failed to find INSTANCE '\MemoryFile~185 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3165): Failed to find INSTANCE '\MemoryFile~186 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3180): Failed to find INSTANCE '\MemoryFile~187 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3371): Failed to find INSTANCE '\MemoryFile~188 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3386): Failed to find INSTANCE '\MemoryFile~189 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1044): Failed to find INSTANCE '\MemoryFile~18feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1192): Failed to find INSTANCE '\MemoryFile~19 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3245): Failed to find INSTANCE '\MemoryFile~190 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3292): Failed to find INSTANCE '\MemoryFile~191 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3401): Failed to find INSTANCE '\MemoryFile~192 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3550): Failed to find INSTANCE '\MemoryFile~193 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3597): Failed to find INSTANCE '\MemoryFile~194 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3488): Failed to find INSTANCE '\MemoryFile~195 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3503): Failed to find INSTANCE '\MemoryFile~196 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3612): Failed to find INSTANCE '\MemoryFile~197 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3677): Failed to find INSTANCE '\MemoryFile~198 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3724): Failed to find INSTANCE '\MemoryFile~199 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1070): Failed to find INSTANCE '\MemoryFile~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1549): Failed to find INSTANCE '\MemoryFile~20 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3771): Failed to find INSTANCE '\MemoryFile~200 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3818): Failed to find INSTANCE '\MemoryFile~201 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3833): Failed to find INSTANCE '\MemoryFile~202 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3992): Failed to find INSTANCE '\MemoryFile~203 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(4039): Failed to find INSTANCE '\MemoryFile~204 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3898): Failed to find INSTANCE '\MemoryFile~205 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3945): Failed to find INSTANCE '\MemoryFile~206 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(4054): Failed to find INSTANCE '\MemoryFile~207 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(589): Failed to find INSTANCE '\MemoryFile~208 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(478): Failed to find INSTANCE '\MemoryFile~209 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1802): Failed to find INSTANCE '\MemoryFile~21 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(510): Failed to find INSTANCE '\MemoryFile~210 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(557): Failed to find INSTANCE '\MemoryFile~211 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(421): Failed to find INSTANCE '\MemoryFile~212 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(310): Failed to find INSTANCE '\MemoryFile~213 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(342): Failed to find INSTANCE '\MemoryFile~214 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(389): Failed to find INSTANCE '\MemoryFile~215 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(668): Failed to find INSTANCE '\MemoryFile~216 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(694): Failed to find INSTANCE '\MemoryFile~217 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(793): Failed to find INSTANCE '\MemoryFile~218 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(866): Failed to find INSTANCE '\MemoryFile~219 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1981): Failed to find INSTANCE '\MemoryFile~22 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(930): Failed to find INSTANCE '\MemoryFile~220 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(987): Failed to find INSTANCE '\MemoryFile~221 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1101): Failed to find INSTANCE '\MemoryFile~222 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1127): Failed to find INSTANCE '\MemoryFile~223 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1286): Failed to find INSTANCE '\MemoryFile~224 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1364): Failed to find INSTANCE '\MemoryFile~225 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1338): Failed to find INSTANCE '\MemoryFile~226 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1312): Failed to find INSTANCE '\MemoryFile~227 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2114): Failed to find INSTANCE '\MemoryFile~23 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2429): Failed to find INSTANCE '\MemoryFile~24 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2634): Failed to find INSTANCE '\MemoryFile~25 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2865): Failed to find INSTANCE '\MemoryFile~26 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3086): Failed to find INSTANCE '\MemoryFile~27 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3213): Failed to find INSTANCE '\MemoryFile~28 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3203): Failed to find INSTANCE '\MemoryFile~28feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3456): Failed to find INSTANCE '\MemoryFile~29 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1208): Failed to find INSTANCE '\MemoryFile~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3739): Failed to find INSTANCE '\MemoryFile~30 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3866): Failed to find INSTANCE '\MemoryFile~31 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3856): Failed to find INSTANCE '\MemoryFile~31feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(437): Failed to find INSTANCE '\MemoryFile~32 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(850): Failed to find INSTANCE '\MemoryFile~33 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1111): Failed to find INSTANCE '\MemoryFile~34 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1239): Failed to find INSTANCE '\MemoryFile~35 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1612): Failed to find INSTANCE '\MemoryFile~36 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1770): Failed to find INSTANCE '\MemoryFile~37 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2028): Failed to find INSTANCE '\MemoryFile~38 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2098): Failed to find INSTANCE '\MemoryFile~39 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1565): Failed to find INSTANCE '\MemoryFile~4 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2413): Failed to find INSTANCE '\MemoryFile~40 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2697): Failed to find INSTANCE '\MemoryFile~41 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2912): Failed to find INSTANCE '\MemoryFile~42 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3133): Failed to find INSTANCE '\MemoryFile~43 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3260): Failed to find INSTANCE '\MemoryFile~44 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3424): Failed to find INSTANCE '\MemoryFile~45 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3802): Failed to find INSTANCE '\MemoryFile~46 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3929): Failed to find INSTANCE '\MemoryFile~47 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(405): Failed to find INSTANCE '\MemoryFile~48 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(876): Failed to find INSTANCE '\MemoryFile~49 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1818): Failed to find INSTANCE '\MemoryFile~5 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1137): Failed to find INSTANCE '\MemoryFile~50 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1255): Failed to find INSTANCE '\MemoryFile~51 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1596): Failed to find INSTANCE '\MemoryFile~52 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1786): Failed to find INSTANCE '\MemoryFile~53 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2044): Failed to find INSTANCE '\MemoryFile~54 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2161): Failed to find INSTANCE '\MemoryFile~55 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2476): Failed to find INSTANCE '\MemoryFile~56 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2681): Failed to find INSTANCE '\MemoryFile~57 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2928): Failed to find INSTANCE '\MemoryFile~58 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3149): Failed to find INSTANCE '\MemoryFile~59 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1997): Failed to find INSTANCE '\MemoryFile~6 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3276): Failed to find INSTANCE '\MemoryFile~60 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3440): Failed to find INSTANCE '\MemoryFile~61 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3786): Failed to find INSTANCE '\MemoryFile~62 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3913): Failed to find INSTANCE '\MemoryFile~63 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(526): Failed to find INSTANCE '\MemoryFile~64 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(746): Failed to find INSTANCE '\MemoryFile~65 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(956): Failed to find INSTANCE '\MemoryFile~66 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1348): Failed to find INSTANCE '\MemoryFile~67 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1445): Failed to find INSTANCE '\MemoryFile~68 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1692): Failed to find INSTANCE '\MemoryFile~69 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2130): Failed to find INSTANCE '\MemoryFile~7 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1903): Failed to find INSTANCE '\MemoryFile~70 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2250): Failed to find INSTANCE '\MemoryFile~71 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2335): Failed to find INSTANCE '\MemoryFile~72 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2546): Failed to find INSTANCE '\MemoryFile~73 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2819): Failed to find INSTANCE '\MemoryFile~74 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3040): Failed to find INSTANCE '\MemoryFile~75 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3355): Failed to find INSTANCE '\MemoryFile~76 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3534): Failed to find INSTANCE '\MemoryFile~77 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3661): Failed to find INSTANCE '\MemoryFile~78 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3976): Failed to find INSTANCE '\MemoryFile~79 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2445): Failed to find INSTANCE '\MemoryFile~8 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(605): Failed to find INSTANCE '\MemoryFile~80 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(678): Failed to find INSTANCE '\MemoryFile~81 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1013): Failed to find INSTANCE '\MemoryFile~82 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1296): Failed to find INSTANCE '\MemoryFile~83 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1502): Failed to find INSTANCE '\MemoryFile~84 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1492): Failed to find INSTANCE '\MemoryFile~84feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1723): Failed to find INSTANCE '\MemoryFile~85 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1934): Failed to find INSTANCE '\MemoryFile~86 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2202): Failed to find INSTANCE '\MemoryFile~87 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2192): Failed to find INSTANCE '\MemoryFile~87feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2382): Failed to find INSTANCE '\MemoryFile~88 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2603): Failed to find INSTANCE '\MemoryFile~89 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2593): Failed to find INSTANCE '\MemoryFile~89feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2650): Failed to find INSTANCE '\MemoryFile~9 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2761): Failed to find INSTANCE '\MemoryFile~90 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2751): Failed to find INSTANCE '\MemoryFile~90feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2982): Failed to find INSTANCE '\MemoryFile~91 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3307): Failed to find INSTANCE '\MemoryFile~92 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3581): Failed to find INSTANCE '\MemoryFile~93 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3708): Failed to find INSTANCE '\MemoryFile~94 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(4023): Failed to find INSTANCE '\MemoryFile~95 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(494): Failed to find INSTANCE '\MemoryFile~96 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(468): Failed to find INSTANCE '\MemoryFile~96feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(730): Failed to find INSTANCE '\MemoryFile~97 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(720): Failed to find INSTANCE '\MemoryFile~97feeder '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(940): Failed to find INSTANCE '\MemoryFile~98 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1374): Failed to find INSTANCE '\MemoryFile~99 '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(301): Failed to find INSTANCE '\addrBus[0]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(237): Failed to find INSTANCE '\addrBus[1]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(292): Failed to find INSTANCE '\addrBus[2]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(246): Failed to find INSTANCE '\clk~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(255): Failed to find INSTANCE '\clk~inputclkctrl '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(264): Failed to find INSTANCE '\inBus[0]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2742): Failed to find INSTANCE '\inBus[10]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2973): Failed to find INSTANCE '\inBus[11]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3194): Failed to find INSTANCE '\inBus[12]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3415): Failed to find INSTANCE '\inBus[13]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3626): Failed to find INSTANCE '\inBus[14]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(3847): Failed to find INSTANCE '\inBus[15]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(659): Failed to find INSTANCE '\inBus[1]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(921): Failed to find INSTANCE '\inBus[2]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1183): Failed to find INSTANCE '\inBus[3]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1436): Failed to find INSTANCE '\inBus[4]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1657): Failed to find INSTANCE '\inBus[5]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(1878): Failed to find INSTANCE '\inBus[6]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2089): Failed to find INSTANCE '\inBus[7]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2310): Failed to find INSTANCE '\inBus[8]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(2521): Failed to find INSTANCE '\inBus[9]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(45): Failed to find INSTANCE '\outBus[0]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(165): Failed to find INSTANCE '\outBus[10]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(177): Failed to find INSTANCE '\outBus[11]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(189): Failed to find INSTANCE '\outBus[12]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(201): Failed to find INSTANCE '\outBus[13]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(213): Failed to find INSTANCE '\outBus[14]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(225): Failed to find INSTANCE '\outBus[15]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(57): Failed to find INSTANCE '\outBus[1]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(69): Failed to find INSTANCE '\outBus[2]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(81): Failed to find INSTANCE '\outBus[3]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(93): Failed to find INSTANCE '\outBus[4]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(105): Failed to find INSTANCE '\outBus[5]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(117): Failed to find INSTANCE '\outBus[6]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(129): Failed to find INSTANCE '\outBus[7]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(141): Failed to find INSTANCE '\outBus[8]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(153): Failed to find INSTANCE '\outBus[9]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(650): Failed to find INSTANCE '\readMem~input '.
+# ** Error (suppressible): (vsim-SDF-3250) RegFile_v.sdo(283): Failed to find INSTANCE '\writeMem~input '.
+# Loading instances from RegFile_v.sdo
+# ** Error (suppressible): (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (8) for port 'addrBus'. The port definition is at: C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo(37).
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: D:/DLD/CA6-M/SS-TB.v Line: 15
+# Loading altera_ver.PRIM_GDFF_LOW
+# ** Error: (vsim-SDF-3445) Failed to parse SDF file "C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo".
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB File: D:/DLD/CA6-M/SS-TB.v
+# Loading timing data from RegFile_v.sdo
+# Error loading design
+# End time: 02:46:27 on Jun 13,2023, Elapsed time: 0:00:00
+# Errors: 283, Warnings: 3
+vsim -gui -L cycloneiv_ver -L altera_ver -sdftyp {/UUT=C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo} work.SS_TB
+# vsim -gui -L cycloneiv_ver -L altera_ver -sdftyp "/UUT=C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo" work.SS_TB 
+# Start time: 02:47:04 on Jun 13,2023
+# Loading work.SS_TB
+# Loading work.SS
+# Loading work.SS_controler
+# Loading work.Selection_Sort
+# Loading work.RegFile
+# Loading work.hard_block
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# Loading instances from C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo
+# Loading instances from RegFile_v.sdo
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (8) for port 'addrBus'. The port definition is at: C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo(37).
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: D:/DLD/CA6-M/SS-TB.v Line: 15
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo
+# Loading timing data from RegFile_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB File: D:/DLD/CA6-M/SS-TB.v
+add wave -position insertpoint  \
+sim:/SS_TB/addrBus \
+sim:/SS_TB/clk \
+sim:/SS_TB/done \
+sim:/SS_TB/inBus \
+sim:/SS_TB/memRdy \
+sim:/SS_TB/memRead \
+sim:/SS_TB/memWrite \
+sim:/SS_TB/outBus \
+sim:/SS_TB/start
+run -all
+# ** Note: $stop    : D:/DLD/CA6-M/SS-TB.v(21)
+#    Time: 7086 ns  Iteration: 0  Instance: /SS_TB
+# Break in Module SS_TB at D:/DLD/CA6-M/SS-TB.v line 21
+# Compile of SS-TB.v was successful.
+# Compile of SS.v was successful.
+# Compile of RegFile.vo was successful.
+# 3 compiles, 0 failed with no errors.
+# Load canceled
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.SS_TB
+# Loading work.SS
+# Loading work.SS_controler
+# Loading work.Selection_Sort
+# Loading work.RegFile
+# Loading work.hard_block
+# Loading instances from C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo
+# Loading instances from RegFile_v.sdo
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (8) for port 'addrBus'. The port definition is at: C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo(37).
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: D:/DLD/CA6-M/SS-TB.v Line: 15
+# Loading timing data from C:/Users/Digi Max/Desktop/LE_MQ/RegFile_v.sdo
+# Loading timing data from RegFile_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB File: D:/DLD/CA6-M/SS-TB.v
+run -all
+# ** Note: $stop    : D:/DLD/CA6-M/SS-TB.v(21)
+#    Time: 7086 ns  Iteration: 0  Instance: /SS_TB
+# Break in Module SS_TB at D:/DLD/CA6-M/SS-TB.v line 21
+# End time: 02:49:59 on Jun 13,2023, Elapsed time: 0:02:55
+# Errors: 0, Warnings: 2

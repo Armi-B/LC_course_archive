@@ -1,0 +1,25 @@
+D:/DLD/CA6-M/SS-TB.v {1 {vlog -work work -stats=none D:/DLD/CA6-M/SS-TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SS_TB
+
+Top level modules:
+	SS_TB
+
+} {} {}} D:/DLD/CA6-M/SS.v {1 {vlog -work work -stats=none D:/DLD/CA6-M/SS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SS
+-- Compiling module SS_controler
+-- Compiling module Selection_Sort
+
+Top level modules:
+	SS
+
+} {} {}} {C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo} {1 {vlog -work work -stats=none {C:/Users/Digi Max/Desktop/RegFile/simulation/modelsim/RegFile.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegFile
+-- Compiling module hard_block
+
+Top level modules:
+	RegFile
+
+} {} {}}

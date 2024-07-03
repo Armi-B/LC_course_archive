@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vhard_block
+Z0 !s110 1686604766
+!i10b 1
+!s100 W1zZ;6;NJo4AOEj;R7W681
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IV?4eKch``TEW:7KbF:PVP2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/DLD/CA6-M/CA6-QM
+Z4 w1686604635
+Z5 8D:/DLD/CA6-M/CA6-QM/SS.vo
+Z6 FD:/DLD/CA6-M/CA6-QM/SS.vo
+!i122 11
+L0 4092 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1686604766.000000
+!s107 D:/DLD/CA6-M/CA6-QM/SS.vo|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/DLD/CA6-M/CA6-QM/SS.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vMemory
+R0
+!i10b 1
+!s100 C2fBo?g7fF@<DCilE[3@^1
+R1
+ISjc>cmjBM<Cl1K_[gi[9O3
+R2
+R3
+w1686062424
+8C:/Users/Digi Max/Desktop/Memory.v
+FC:/Users/Digi Max/Desktop/Memory.v
+!i122 10
+L0 1 57
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Digi Max/Desktop/Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Digi Max/Desktop/Memory.v|
+!i113 1
+R10
+R11
+n@memory
+vSS
+R0
+!i10b 1
+!s100 EDNDYbkaW>bD`@bKfSHSi1
+R1
+I7mC`GY;;oWOhczGfX7kaW3
+R2
+R3
+R4
+R5
+R6
+!i122 11
+L0 32 4059
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/DLD/CA6-M/CA6-QM/SS.vo|
+R9
+!i113 1
+R10
+R11
+n@s@s
+vSS_TB
+R0
+!i10b 1
+!s100 n?EA1c6]EM:`O@<F?dEFR0
+R1
+IHGMDiUgig5?oW]Ic^RcEb0
+R2
+R3
+w1686604158
+8D:\DLD\CA6-M\SS-TB.v
+FD:\DLD\CA6-M\SS-TB.v
+!i122 9
+L0 2 22
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:\DLD\CA6-M\SS-TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\DLD\CA6-M\SS-TB.v|
+!i113 1
+R10
+R11
+n@s@s_@t@b

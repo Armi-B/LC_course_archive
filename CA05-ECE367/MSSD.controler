@@ -1,0 +1,42 @@
+`timescale 1ns/1ns
+
+module MSSD_controler(input reset, clk, serIn, done, output [1:6] LD,output [3:6] S0, S1, output ci, on, output [3:0]PS);
+    logic [3:0] ns;
+    logic [3:0] ps;
+    wire ld1, ld2;
+    always@(ps, serIn, done) begin
+        ns=4'd0;
+            case(ps)
+                0: ns = serIn ? 4'd0 : ps + 4'd1;
+                1: ns = ps + 4'd1;
+                2: ns = ps + 4'd1;
+                3: ns = ps + 4'd1;
+                4: ns = ps + 4'd1;
+                5: ns = ps + 4'd1;
+                6: ns = ps + 4'd1;
+                7: ns = ps + 4'd1;
+                8: ns = done ?  4'd0 : 4'd8;
+                default: ns = 4'd0;
+            endcase
+    end
+
+    always@(posedge clk, posedge reset) begin
+        if(reset)
+            ps<= 4'd0;
+        else
+            ps<=ns;
+    end
+
+    assign ci = (ps == 4'd8) ? 1'b1 : 1'b0;
+    assign on = (ps == 4'd8) ? 1'b1 : 1'b0;
+    assign S1 = (on) ? 4'b1111 : 4'd0;
+    assign ld1 = (ps==4'd1) ? 1'b1 : 1'b0;
+    assign ld2 = (ps==4'd2) ? 1'b1 : 1'b0;
+    assign LD = {ld1, ld2, 4'b1111};
+    assign S0[3] = (ps==4'd3)? 1'b1 : 1'b0;
+    assign S0[4] = (ps==4'd4)? 1'b1 : 1'b0;
+    assign S0[5] = (ps==4'd5)? 1'b1 : 1'b0;
+    assign S0[6] = (ps==4'd6)? 1'b1 : 1'b0;
+    assign PS = ps;
+
+endmodule

@@ -1,0 +1,23 @@
+D:/DLD/CA6-M/SS-TB.v {1 {vlog -work work -stats=none {D:\DLD\CA6-M\SS-TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SS_TB
+
+Top level modules:
+	SS_TB
+
+} {} {}} D:/DLD/CA6-M/CA6-QM/SS.vo {1 {vlog -work work -stats=none D:/DLD/CA6-M/CA6-QM/SS.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SS
+-- Compiling module hard_block
+
+Top level modules:
+	SS
+
+} {} {}} {C:/Users/Digi Max/Desktop/Memory.v} {1 {vlog -work work -stats=none {C:/Users/Digi Max/Desktop/Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}}

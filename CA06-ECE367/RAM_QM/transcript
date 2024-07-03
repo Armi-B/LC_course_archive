@@ -1,0 +1,1309 @@
+# Compile of SS-TB.v was successful.
+# Compile of SS.v was successful.
+# Compile of RegFile.vo was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.SS_TB
+# vsim -gui work.SS_TB 
+# Start time: 03:08:24 on Jun 13,2023
+# Loading work.SS_TB
+# Loading work.SS
+# Loading work.SS_controler
+# Loading work.Selection_Sort
+# Loading work.RegFile
+# Loading work.hard_block
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 422
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 435
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 448
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 461
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 474
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 487
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 500
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 513
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 526
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 539
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 552
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 565
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 578
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 591
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 604
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 617
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 630
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_clkctrl' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 640
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 653
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 663
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 680
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 690
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 700
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 710
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 720
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 737
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 756
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 773
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 792
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 809
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 828
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 845
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 862
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 879
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 898
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 915
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 932
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 949
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 968
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 985
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1004
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1021
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1040
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1057
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1074
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1093
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1110
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1127
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1144
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1154
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1164
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1181
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1200
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1219
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1236
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1253
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1272
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1291
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1308
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1327
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1344
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1363
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1380
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1399
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1416
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1435
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1452
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1469
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1479
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1496
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1515
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1532
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1551
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1568
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1587
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1606
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1623
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1640
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1659
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1678
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1695
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1714
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1731
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1750
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1767
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1784
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1794
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1813
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1830
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1849
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1866
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1885
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1902
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1921
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1938
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1955
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1974
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 1993
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2010
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2029
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2046
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2065
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2082
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2099
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2109
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2126
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2145
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2164
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2181
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2200
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2217
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2236
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2253
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2270
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2287
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2306
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2325
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2344
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2361
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2380
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2397
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2414
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2431
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2441
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2458
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2477
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2494
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2513
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2530
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2547
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2566
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2583
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2602
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2619
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2638
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2657
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2676
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2695
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2712
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2729
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2746
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2756
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2773
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2792
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2809
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2828
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2845
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2862
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2881
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2898
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2917
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2934
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2953
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2972
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 2989
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3008
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3027
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3044
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3061
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3071
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3090
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3109
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3128
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3147
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3164
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3181
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3198
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3217
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3234
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3253
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3270
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3289
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3306
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3325
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3342
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3359
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3376
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3386
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3403
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3422
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3439
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3458
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3475
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3494
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3511
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3528
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3547
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3564
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3581
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3600
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3617
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3636
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3653
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3670
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3689
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3706
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3725
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3742
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3759
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3769
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3788
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3807
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3824
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3843
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3862
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3879
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3898
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3917
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3934
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3953
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3972
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 3989
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4006
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4023
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4033
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4052
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4071
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4088
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4107
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4126
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4143
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4160
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4179
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4198
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4215
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4234
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4251
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4270
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4287
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4304
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4314
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4333
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4352
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4369
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4386
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4405
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4424
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4441
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4460
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4479
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4496
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4515
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4534
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4551
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4568
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4585
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4595
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4614
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4633
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4650
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4669
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4688
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4705
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4724
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4743
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4762
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4779
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4798
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4815
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4832
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4842
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4859
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4878
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4897
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4916
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4935
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4952
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4969
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 4986
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5005
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5024
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5041
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5058
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5077
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5096
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5113
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5130
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5140
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5157
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5176
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5195
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5212
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5231
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5248
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5267
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5284
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5301
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5320
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5339
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5356
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5373
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5392
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5411
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5428
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5445
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5455
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5472
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5491
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5508
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5527
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5546
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5563
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5582
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5599
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5616
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5635
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5652
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5671
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5690
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5707
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5726
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneiv_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo Line: 5743
+#         Searched libraries:
+#             C:/Users/Digi Max/Desktop/RAM_QM/work
+# Error loading design
+# End time: 03:08:25 on Jun 13,2023, Elapsed time: 0:00:01
+# Errors: 312, Warnings: 7
+vsim -gui work.SS_TB -L altera_ver -L cycloneiv_ver -sdftyp {/UUT=C:/Users/Digi Max/Desktop/RAM_QM/RegFile_v.sdo}
+# vsim -gui work.SS_TB -L altera_ver -L cycloneiv_ver -sdftyp "/UUT=C:/Users/Digi Max/Desktop/RAM_QM/RegFile_v.sdo" 
+# Start time: 03:09:14 on Jun 13,2023
+# Loading work.SS_TB
+# Loading work.SS
+# Loading work.SS_controler
+# Loading work.Selection_Sort
+# Loading work.RegFile
+# Loading work.hard_block
+# Loading cycloneiv_ver.cycloneiv_io_obuf
+# Loading cycloneiv_ver.cycloneiv_io_ibuf
+# Loading cycloneiv_ver.cycloneiv_clkctrl
+# Loading cycloneiv_ver.cycloneiv_mux41
+# Loading cycloneiv_ver.cycloneiv_ena_reg
+# Loading cycloneiv_ver.cycloneiv_lcell_comb
+# Loading altera_ver.dffeas
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading instances from C:/Users/Digi Max/Desktop/RAM_QM/RegFile_v.sdo
+# Loading instances from RegFile_v.sdo
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (8) for port 'addrBus'. The port definition is at: C:/Users/Digi Max/Desktop/RAM_Q/simulation/modelsim/RegFile.vo(37).
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB/UUT File: D:/DLD/CA6-M/SS-TB.v Line: 15
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from C:/Users/Digi Max/Desktop/RAM_QM/RegFile_v.sdo
+# Loading timing data from RegFile_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /SS_TB File: D:/DLD/CA6-M/SS-TB.v
+add wave -position insertpoint  \
+sim:/SS_TB/addrBus \
+sim:/SS_TB/clk \
+sim:/SS_TB/done \
+sim:/SS_TB/inBus \
+sim:/SS_TB/memRdy \
+sim:/SS_TB/memRead \
+sim:/SS_TB/memWrite \
+sim:/SS_TB/outBus \
+sim:/SS_TB/start
+run -all
+# ** Error: $hold( posedge clk &&& sloaddata:587715 ps, asdata:587799 ps, 187 ps );
+#    Time: 587799 ps  Iteration: 0  Process: /SS_TB/UUT/\MemoryFile~71 /#Setuphold# File: $MODEL_TECH/../altera/verilog/src/altera_primitives.v Line: 294
+# ** Note: $stop    : D:/DLD/CA6-M/SS-TB.v(21)
+#    Time: 7086 ns  Iteration: 0  Instance: /SS_TB
+# Break in Module SS_TB at D:/DLD/CA6-M/SS-TB.v line 21
+# End time: 03:10:33 on Jun 13,2023, Elapsed time: 0:01:19
+# Errors: 1, Warnings: 2
